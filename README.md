@@ -8,7 +8,7 @@ The dataset used is the well-known **Credit Card Fraud Detection dataset from Ka
 ## 🔍 Problem
 Credit card companies face a big challenge: finding fraudulent transactions among millions of normal ones.  
 Fraud cases are **very rare** compared to genuine ones, so the dataset is **highly imbalanced**.  
-Our goal is to build a system that can **spot frauds as accurately as possible** while keeping false alarms low.
+The goal is to build a system that can **spot frauds as accurately as possible** while keeping false alarms low.
 
 ---
 
@@ -60,3 +60,7 @@ Our goal is to build a system that can **spot frauds as accurately as possible**
    git clone https://github.com/helihathi/fraud-detection-system.git
    cd fraud-detection-system
 2. Run the `fraud-detection-system.ipynb` file on any Python Environment (For ex., Jupyter Notebook, Google Colab, Visual Studio Code, Kaggle Notebook)
+
+---
+
+Dataset Link: [Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
