@@ -59,4 +59,4 @@ Our goal is to build a system that can **spot frauds as accurately as possible**
    ```bash
    git clone https://github.com/helihathi/fraud-detection-system.git
    cd fraud-detection-system
-2. Run the **fraud-detection-system.ipynb** file on any Python Environment (For ex., Jupyter Notebook, Google Colab, Visual Studio Code, Kaggle Notebook)
+2. Run the `fraud-detection-system.ipynb` file on any Python Environment (For ex., Jupyter Notebook, Google Colab, Visual Studio Code, Kaggle Notebook)
