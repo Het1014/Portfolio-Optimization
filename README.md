@@ -22,7 +22,7 @@ Our goal is to build a system that can **spot frauds as accurately as possible**
    - NumPy, Pandas for data handling  
    - Scikit-learn for ML models and metrics  
    - Imbalanced-learn for handling class imbalance  
-   - TensorFlow (for Deep Learning)
+   - TensorFlow for Deep Learning
 
 2. **Load the Dataset**  
    - Credit card transactions data (`creditcard.csv`).  
@@ -38,11 +38,11 @@ Our goal is to build a system that can **spot frauds as accurately as possible**
    - Handle imbalance using techniques like **SMOTE** (oversampling fraud cases).
 
 5. **Model Training**  
-   - Tried different ML models (e.g., Logistic Regression, Random Forest, Neural Networks).  
+   - Tried different ML models (e.g., Logistic Regression, Isolation Forest, AutoEncoders).  
    - Focus on metrics beyond accuracy (because of imbalance).
 
 6. **Model Evaluation**  
-   - Metrics: Precision, Recall, F1-score, ROC-AUC.  
+   - Metrics: Precision, Recall, F1-score, ROC-AUC, Precision-Recall Curve.  
    - Emphasis on **Recall for fraud class** (catching frauds is more important).  
 
 ---
