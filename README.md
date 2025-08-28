@@ -57,5 +57,9 @@ Our goal is to build a system that can **spot frauds as accurately as possible**
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection-system.git
+   git clone https://github.com/helihathi/fraud-detection-system.git
    cd fraud-detection-system
+2. Run the
+   ```bash
+   .ipynb
+file on any Python Environment (For ex., Jupyter Notebook, Google Colab, Visual Studio Code, Kaggle Notebook)
